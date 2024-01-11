@@ -1,6 +1,6 @@
-# windmill-deno-client
+# brunner-deno-client
 
-Deno client for Windmill
+Deno client for brunner
 
 ## Howto build locally
 
